@@ -7,11 +7,12 @@
   "author": "COQUARD Cyrille <coquardcyr@gmail.com>",
   "keywords": [
     "astro-component",
-    "analytics"
+    "analytics",
+    "smartlook"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Destiner/astro-analytics.git"
+    "url": "git://github.com/COQUARD-Cyrille-Freelance/astro-smartlook.git"
   },
   "license": "MIT"
 }
