@@ -1,0 +1,17 @@
+{
+  "name": "astro-smartlook",
+  "version": "1.0.0",
+  "description": "Smartlook component for Astro",
+  "type": "module",
+  "exports": "./src/index.js",
+  "author": "COQUARD Cyrille <coquardcyr@gmail.com>",
+  "keywords": [
+    "astro-component",
+    "analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Destiner/astro-analytics.git"
+  },
+  "license": "MIT"
+}
