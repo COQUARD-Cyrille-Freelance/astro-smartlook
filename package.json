@@ -1,6 +1,6 @@
 {
   "name": "astro-smartlook",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Smartlook component for Astro",
   "type": "module",
   "exports": "./src/index.js",
